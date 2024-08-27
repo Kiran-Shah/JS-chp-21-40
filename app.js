@@ -243,8 +243,7 @@ if (someString.charAt(2) === 'specificCharacter') {
 
         //Extract All Parts of the Date and Time and Assign to a Variable:
 
-        javascript
-        Copy code
+      
         var dateInfo = {
             year: d.getFullYear(),
             month: d.getMonth(),
@@ -321,8 +320,7 @@ if (someString.charAt(2) === 'specificCharacter') {
 
                 //Function askName to Prompt for a Name:
 
-                javascript
-                Copy code
+               
 
                 function askName() {
                     var userName = prompt("Enter name");
